@@ -1,4 +1,4 @@
-# LEIAME — o que foi feito e como usar
+# README — o que foi feito e como usar
 
 Este pacote finaliza o projeto a partir do seu código original. Abaixo está,
 de forma transparente, **tudo o que foi alterado e por quê**, seguido do passo
